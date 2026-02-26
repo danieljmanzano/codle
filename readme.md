@@ -13,5 +13,15 @@ Este é um clone do jogo de adivinhações de palavras "Termo" (ou do "Wordle", 
 
 1. Clone o repositório:
 ```bash
-   git clone 
-   
+   git clone https://github.com/danieljmanzano/codle
+```
+
+2. Instale as dependências:
+```bash
+   npm install
+```
+
+3. Inicie o servidor
+```bash
+   npm run dev
+```
