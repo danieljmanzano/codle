@@ -13,7 +13,11 @@ Este é um clone do jogo de adivinhações de palavras "Termo" (ou do "Wordle", 
 
 Abaixo, registros da interface.
 
+<img width="773" height="950" alt="tela inicial" src="https://github.com/user-attachments/assets/ffc43491-a3c0-49b8-944c-fdfd5abf5098" />
 
+<img width="773" height="950" alt="tela com tentativas" src="https://github.com/user-attachments/assets/1fb52337-cb38-4f50-9dce-3a0b5a887c0a" />
+
+<img width="773" height="950" alt="tela de acerto" src="https://github.com/user-attachments/assets/334a2154-7551-412a-90ba-cda3d33849cb" />
 
 ## Como Rodar
 
