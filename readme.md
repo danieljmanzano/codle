@@ -5,9 +5,15 @@ Este é um clone do jogo de adivinhações de palavras "Termo" (ou do "Wordle", 
 ## Tecnologias 
 
 - React 19: Biblioteca para construção da interface.
-- Vite 7: Ferramenta de build e servidor de desenvolvimento ultra-rápido.
-- Tailwind CSS 3.4: Framework CSS utilitário para estilização responsiva.
-- PostCSS: Processador de CSS para suporte a animações e diretivas do Tailwind.
+- Vite 7: Ferramenta de build e servidor de desenvolvimento.
+- Tailwind CSS 3.4: Framework CSS utilitário para estilização.
+- PostCSS: Processador de CSS para suporte ao Tailwind.
+
+## Interface
+
+Abaixo, registros da interface.
+
+
 
 ## Como Rodar
 
